@@ -1,0 +1,251 @@
+{
+    "frames": {
+        "walkDown1": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkDown2": {
+            "frame": {
+                "x": 52,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkDown3": {
+            "frame": {
+                "x": 104,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkLeft1": {
+            "frame": {
+                "x": 0,
+                "y": 74,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkLeft2": {
+            "frame": {
+                "x": 52,
+                "y": 74,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkLeft3": {
+            "frame": {
+                "x": 104,
+                "y": 74,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkRight1": {
+            "frame": {
+                "x": 0,
+                "y": 148,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkRight2": {
+            "frame": {
+                "x": 52,
+                "y": 148,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkRight3": {
+            "frame": {
+                "x": 104,
+                "y": 148,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkUp1": {
+            "frame": {
+                "x": 0,
+                "y": 220,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkUp2": {
+            "frame": {
+                "x": 52,
+                "y": 220,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        },
+        "walkUp3": {
+            "frame": {
+                "x": 104,
+                "y": 220,
+                "w": 52,
+                "h": 74
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 74
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 74
+            }
+        }
+    },
+    "meta": {
+        "image": "",
+        "format": "RGBA8888",
+        "size": {
+            "w": 624,
+            "h": 576
+        },
+        "scale": 1
+    },
+    "animations": {
+        "walkDown": [
+            "walkDown1",
+            "walkDown2",
+            "walkDown3"
+        ],
+        "walkLeft": [
+            "walkLeft1",
+            "walkLeft2",
+            "walkLeft3"
+        ],
+        "walkRight": [
+            "walkRight1",
+            "walkRight2",
+            "walkRight3"
+        ],
+        "walkUp": [
+            "walkUp1",
+            "walkUp2",
+            "walkUp3"
+        ]
+    }
+}

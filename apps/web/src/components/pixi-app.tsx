@@ -1,6 +1,6 @@
 import { Application, extend } from "@pixi/react";
 import { Container, Graphics, Sprite, AnimatedSprite } from "pixi.js";
-import { Game } from "./game";
+import { Player } from "./entities/player";
 
 // Extend Pixi components for React
 extend({
@@ -13,7 +13,7 @@ extend({
 export function PixiApp() {
   return (
     <Application width={800} height={600} backgroundColor={0x1099bb}>
-      <Game />
+      <Player />
     </Application>
   );
 }
